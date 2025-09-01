@@ -1,0 +1,3 @@
+- One-page scroll: Intro + UI2025 Portfolio + Contact
+- Subtle animations 
+- static
